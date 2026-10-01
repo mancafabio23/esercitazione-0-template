@@ -3,10 +3,15 @@
 Gruppo:
 
 Componenti (nome, cognome e username GitHub di entrambi):
+Alessio, Maiorano, Alessio2264913
+Fabio, Manca, mancafabio23
 
 URL del repository condiviso:
 
+
 Chi ha usato la tastiera nello step 1 e nello step 2:
+step 1: Alessio Maiorano
+step 2: Fabio Manca
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
@@ -14,10 +19,14 @@ saper spiegare le prove svolte.
 ## Step 1 — Hello World: compilazione ed esecuzione
 
 Comando di compilazione:
+gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
 Comando di esecuzione e risultato osservato:
+./hello
+Hello, computational physics!
 
 Che cosa ho capito su sorgente ed eseguibile:
+il codice sorgente contiene il codice in linguaggio C, mentre l'eseguibile contiene le istruzioni per il computer per eseguire il programma
 
 Output richiesto e comportamento del programma prima della modifica:
 
