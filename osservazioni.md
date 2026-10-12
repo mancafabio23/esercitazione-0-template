@@ -6,7 +6,7 @@ Componenti (nome, cognome e username GitHub di entrambi):
 Alessio, Maiorano, Alessio2264913
 Fabio, Manca, mancafabio23
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/mancafabio23/esercitazione-0-template
 
 
 Chi ha usato la tastiera nello step 1 e nello step 2:
